@@ -42,6 +42,17 @@ ul>li>a {
 	text-decoration: none;
 }
 
+ul>li:last-child {
+	margin-right: 0;
+}
+
+.link {
+	background-color: rebeccapurple;
+	color: white;
+	padding: 8px 15px;
+	margin-left: 10px;
+}
+
 .box {
 	display: flex;
 	margin-bottom: 30px;
